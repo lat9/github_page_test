@@ -1,3 +1,3 @@
 # Test documentation heading
 
-![](create_account_register.jpg)
+![](images/create_account_register.jpg)
